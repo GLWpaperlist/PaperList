@@ -35,7 +35,7 @@
 ### SNN
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
-| 加速器  |      | Minitaur, an Event-Driven FPGA-Based Spiking Network Accelerator <br>[论文链接](https://github.com/GLWpaperlist/PaperList/blob/main/2014/SNN/Minitaur%2C%20an%20Event-Driven%20FPGA-Based%20Spiking%20Network%20Accelerator.md)|Daniel Neil and Shih-Chii Liu                              |     IEEE                                    |
+| 加速器  |      | Minitaur, an Event-Driven FPGA-Based Spiking Network Accelerator <br>[论文链接] &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2014/SNN/Minitaur%2C%20an%20Event-Driven%20FPGA-Based%20Spiking%20Network%20Accelerator.md)|Daniel Neil and Shih-Chii Liu                              |     IEEE                                    |
 
 ## 2009年
 ### SNN
