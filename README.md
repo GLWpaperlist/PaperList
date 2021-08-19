@@ -35,10 +35,10 @@
 ### SNN
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
-| 加速器  |      | Minitaur, an Event-Driven FPGA-Based Spiking Network Accelerator <br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/2014/SNN/Minitaur, an Event-Driven FPGA-Based Spiking Network Accelerator.md)|Daniel Neil and Shih-Chii Liu                              |     IEEE                                    |
+| 加速器  |      | Minitaur, an Event-Driven FPGA-Based Spiking Network Accelerator <br>[论文链接](https://github.com/GLWpaperlist/PaperList/blob/main/2014/SNN/Minitaur%2C%20an%20Event-Driven%20FPGA-Based%20Spiking%20Network%20Accelerator.md)|Daniel Neil and Shih-Chii Liu                              |     IEEE                                    |
 
 ## 2009年
 ### SNN
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
-|  Izhikevich模型 |      | FPGA Implementation of Izhikevich Spiking Neural Networks for Character Recognition <br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/2009/SNN/FPGA Implementation of Izhikevich Spiking Neural Networks for Character Recognition.md)|克莱门森大学，戴顿大学                              |     IEEE                                    |
+|  Izhikevich模型 |      | FPGA Implementation of Izhikevich Spiking Neural Networks for Character Recognition <br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2009/SNN/FPGA%20Implementation%20of%20Izhikevich%20Spiking%20Neural%20Networks%20for%20Character%20Recognition.md)|克莱门森大学，戴顿大学                              |     IEEE                                    |
