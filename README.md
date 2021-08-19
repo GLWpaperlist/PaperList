@@ -24,21 +24,21 @@
 
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
-| SNN训练，应用  |      | Spiking Neural Network Based Low-Power Radioisotope Identification using FPGA <br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/ISCA/High-Performance%20Deep-Learning%20Coprocessor%20Integrated%20into%20x86%20SoC%20with%20Server-Class%20CPUs.md)|爱丁堡大学，曼彻斯特大学，利物浦大学，克罗梅克集团                              |     IEEE                                    |
+| SNN训练，应用  |      | Spiking Neural Network Based Low-Power Radioisotope Identification using FPGA <br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/2021/SNN/Spiking Neural Network Based Low-Power Radioisotope Identification using FPGA.md)|爱丁堡大学，曼彻斯特大学，利物浦大学，克罗梅克集团                              |     IEEE                                    |
 ## 2020年
 ### SNN
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
-| SNN硬件实现  |      |FPGA implementation of sequence-to-sequence predicting spiking neural networks<br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/ISCA/High-Performance%20Deep-Learning%20Coprocessor%20Integrated%20into%20x86%20SoC%20with%20Server-Class%20CPUs.md)|汉阳大学                             |     IEEE                                    |
+| SNN硬件实现  |      |FPGA implementation of sequence-to-sequence predicting spiking neural networks<br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/2020/SNN/FPGA implementation of sequence-to-sequence predicting spiking neural networks.md)|汉阳大学                             |     IEEE                                    |
 
 ## 2014年
 ### SNN
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
-| 加速器  |      | Minitaur, an Event-Driven FPGA-Based Spiking Network Accelerator <br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/ISCA/High-Performance%20Deep-Learning%20Coprocessor%20Integrated%20into%20x86%20SoC%20with%20Server-Class%20CPUs.md)|Daniel Neil and Shih-Chii Liu                              |     IEEE                                    |
+| 加速器  |      | Minitaur, an Event-Driven FPGA-Based Spiking Network Accelerator <br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/2014/SNN/Minitaur, an Event-Driven FPGA-Based Spiking Network Accelerator.md)|Daniel Neil and Shih-Chii Liu                              |     IEEE                                    |
 
 ## 2009年
 ### SNN
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
-|  Izhikevich模型 |      | FPGA Implementation of Izhikevich Spiking Neural Networks for Character Recognition <br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/ISCA/High-Performance%20Deep-Learning%20Coprocessor%20Integrated%20into%20x86%20SoC%20with%20Server-Class%20CPUs.md)|克莱门森大学，戴顿大学                              |     IEEE                                    |
+|  Izhikevich模型 |      | FPGA Implementation of Izhikevich Spiking Neural Networks for Character Recognition <br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/2009/SNN/FPGA Implementation of Izhikevich Spiking Neural Networks for Character Recognition.md)|克莱门森大学，戴顿大学                              |     IEEE                                    |
