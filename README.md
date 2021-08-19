@@ -13,22 +13,11 @@
 ## 关于项目
 * 这个项目的目的是帮助相关人员更快的了解数字和模拟继集成电路和AI加速器硬件实现相关 的知识。项目整理的论文包括各个顶会(ISCA, MICRO, ASPLOS, HPCA)收录的相关文章，并对其的主要内容和创新点进行了概括，方便快速查找。
 
-* This project is initiated by the Advanced Computer Architecture Lab (ACA Lab) in Shanghai Jiao Tong University in collaboration with Biren Research.  Articles from additional sources is being added. Please let us know if you have any comments or willing to contribute.
+* 这个项目由GLW算法组提出并进行相关的维护和更新。如果您有任何好的建议和问题，可以在GitHub上与我们一起讨论。
 
 
+## 论文列表
 
-## The Listing of Tags
-
-​	For guidance and searching purposes, Tags and/or notes are assigned to all these papers . We will use the following tags to annotate these papers.
-
-![Tags](https://github.com/BirenResearch/AIChip_Paper_List/raw/master/tag-list.svg?sanitize=true)
-
-​                               
-
-## The Chronological Listing of Papers
-
-
-​	We list all AI related articles  collected. The links of <u>paper</u>/<u>slides</u>/<u>note</u> are provided under the title of each article If available. Updating is in progress<br> 
 
 ## ISCA
 ### 2020
