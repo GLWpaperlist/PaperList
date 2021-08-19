@@ -24,21 +24,21 @@
 
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
-| SNN训练，应用  |      | Spiking Neural Network Based Low-Power Radioisotope Identification using FPGA <br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2021/SNN/Spiking%20Neural%20Network%20Based%20Low-Power%20%20Radioisotope%20Identification%20using%20FPGA.md)|爱丁堡大学，曼彻斯特大学，利物浦大学，克罗梅克集团                              |     IEEE                                    |
+| SNN训练，应用  |      | Spiking Neural Network Based Low-Power Radioisotope Identification using FPGA <br>[论文链接](https://arxiv.org/ftp/arxiv/papers/2010/2010.13125.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2021/SNN/Spiking%20Neural%20Network%20Based%20Low-Power%20%20Radioisotope%20Identification%20using%20FPGA.md)|爱丁堡大学，曼彻斯特大学，利物浦大学，克罗梅克集团                              |     IEEE                                    |
 ## 2020年
 ### SNN
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
-| SNN硬件实现  |      |FPGA implementation of sequence-to-sequence predicting spiking neural networks<br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2020/SNN/FPGA%20implementation%20of%20sequence-to-sequence%20%20predicting%20spiking%20neural%20networks.md)|汉阳大学                             |     IEEE                                    |
+| SNN硬件实现  |      |FPGA implementation of sequence-to-sequence predicting spiking neural networks<br>[论文链接](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.413.3017&rep=rep1&type=pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2020/SNN/FPGA%20implementation%20of%20sequence-to-sequence%20%20predicting%20spiking%20neural%20networks.md)|汉阳大学                             |     IEEE                                    |
 
 ## 2014年
 ### SNN
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
-| 加速器  |      | Minitaur, an Event-Driven FPGA-Based Spiking Network Accelerator <br>[论文链接] &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2014/SNN/Minitaur%2C%20an%20Event-Driven%20FPGA-Based%20Spiking%20Network%20Accelerator.md)|Daniel Neil and Shih-Chii Liu                              |     IEEE                                    |
+| 加速器  |      | Minitaur, an Event-Driven FPGA-Based Spiking Network Accelerator <br>[论文链接] (https://www.researchgate.net/publication/261646738_Minitaur_an_Event-Driven_FPGA-Based_Spiking_Network_Accelerator)&emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2014/SNN/Minitaur%2C%20an%20Event-Driven%20FPGA-Based%20Spiking%20Network%20Accelerator.md)|Daniel Neil and Shih-Chii Liu                              |     IEEE                                    |
 
 ## 2009年
 ### SNN
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
-|  Izhikevich模型 |      | FPGA Implementation of Izhikevich Spiking Neural Networks for Character Recognition <br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2009/SNN/FPGA%20Implementation%20of%20Izhikevich%20Spiking%20Neural%20Networks%20for%20Character%20Recognition.md)|克莱门森大学，戴顿大学                              |     IEEE                                    |
+|  Izhikevich模型 |      | FPGA Implementation of Izhikevich Spiking Neural Networks for Character Recognition <br>[论文链接](http://bertrand.granado.free.fr/ENSEA/papiers/3917a451.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2009/SNN/FPGA%20Implementation%20of%20Izhikevich%20Spiking%20Neural%20Networks%20for%20Character%20Recognition.md)|克莱门森大学，戴顿大学                              |     IEEE                                    |
