@@ -29,7 +29,7 @@
 ### SNN
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
-| SNN硬件实现  |      |FPGA implementation of sequence-to-sequence predicting spiking neural networks<br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/2020/SNN/FPGA implementation of sequence-to-sequence predicting spiking neural networks.md)|汉阳大学                             |     IEEE                                    |
+| SNN硬件实现  |      |FPGA implementation of sequence-to-sequence predicting spiking neural networks<br>[论文链接](https://www.iscaconf.org/isca2020/papers/466100a015.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2020/SNN/FPGA%20implementation%20of%20sequence-to-sequence%20%20predicting%20spiking%20neural%20networks.md)|汉阳大学                             |     IEEE                                    |
 
 ## 2014年
 ### SNN
