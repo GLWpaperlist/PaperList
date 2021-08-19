@@ -3,7 +3,7 @@ SNN论文汇总
 # AI Chip Paper List
 ## Table of Contents
 
- - [About This Project](#about-this-project)
+ - [关于项目](#关于项目)
  - [The Chronological Listing of Papers](#the-chronological-listing-of-papers)
    -    [ISCA](#isca)
    -    [ASPLOS](#asplos)
@@ -11,7 +11,7 @@ SNN论文汇总
    -    [HPCA](#hpca)
 
 
-## About This Project
+## 关于项目
 ​	This project aims to help engineers, researchers and students to easily find and learn the good thoughts and designs in AI-related fields, such as AI/ML/DL accelerators, chips, and systems, proposed in the top-tier architecture conferences (ISCA, MICRO, ASPLOS, HPCA). 
 
 ​	This project is initiated by the Advanced Computer Architecture Lab (ACA Lab) in Shanghai Jiao Tong University in collaboration with Biren Research.  Articles from additional sources is being added. Please let us know if you have any comments or willing to contribute.
