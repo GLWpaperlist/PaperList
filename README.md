@@ -1,5 +1,5 @@
-# SNNpaper
-  SNN论文汇总
+# PaperList
+  论文汇总
 ## 目录
 
  - [关于项目](#关于项目)
