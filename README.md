@@ -8,7 +8,7 @@
    -    [2020年](#2020年)
    -    [2014年](#2014年)
    -    [2009年](#2009年)
-
+   -    [2008年](#2008年)
 
 ## 关于项目
 * 这个项目的目的是帮助相关人员更快的了解数字和模拟继集成电路和AI加速器硬件实现相关 的知识。项目整理的论文包括各个顶会(ISCA, MICRO, ASPLOS, HPCA)以及IEEE收录的相关文章，并对其的主要内容和创新点进行了概括，方便快速查找和了解。
@@ -44,3 +44,8 @@
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
 |  Izhikevich模型 |      | FPGA Implementation of Izhikevich Spiking Neural Networks for Character Recognition <br>[论文链接](http://bertrand.granado.free.fr/ENSEA/papiers/3917a451.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2009/SNN/FPGA%20Implementation%20of%20Izhikevich%20Spiking%20Neural%20Networks%20for%20Character%20Recognition.md)|克莱门森大学，戴顿大学                              |     IEEE                                    |
+## 2008年
+### SNN
+| 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
+| ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
+|  NoC,FPNN |      | Programmable Architectures for Large-scale Implementations of Spiking Neural Networks<br>[论文链接](https://www.infona.pl/resource/bwmeta1.element.ieee-art-000004780982)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2008/SNN/Programmable%20Architectures%20for%20Large-scale%20Implementations%20of%20Spiking%20Neural%20Networks.md)|Jim Harkin,Liam McDaid                           |     IEEE                                    |
