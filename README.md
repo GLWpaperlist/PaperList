@@ -31,6 +31,7 @@
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
 | SNN硬件实现  |      |FPGA implementation of sequence-to-sequence predicting spiking neural networks<br>[论文链接](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.413.3017&rep=rep1&type=pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2020/SNN/FPGA%20implementation%20of%20sequence-to-sequence%20%20predicting%20spiking%20neural%20networks.md)|汉阳大学                             |     IEEE                                    |
+| spike trains 编码  |      |Spike Trains Encoding Optimization for Spiking Neural Networks Implementation in FPGA<br>[论文链接](https://ieeexplore.ieee.org/document/9177793)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2020/SNN/Spike%20Trains%20Encoding%20Optimization%20for%20Spiking%20Neural%20Networks%20Implementation%20in%20FPGA.md)|第12届国际高级计算智能会议(ICACI) |     IEEE                                    |
 
 ## 2014年
 ### SNN
