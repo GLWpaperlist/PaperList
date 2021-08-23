@@ -9,6 +9,7 @@
    -    [2014年](#2014年)
    -    [2009年](#2009年)
    -    [2008年](#2008年)
+   -    [INQ专题](#INQ专题)
 
 ## 关于项目
 * 这个项目的目的是帮助相关人员更快的了解数字和模拟继集成电路和AI加速器硬件实现相关 的知识。项目整理的论文包括各个顶会(ISCA, MICRO, ASPLOS, HPCA)以及IEEE收录的相关文章，并对其的主要内容和创新点进行了概括，方便快速查找和了解。
@@ -49,3 +50,15 @@
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
 |  NoC,FPNN |      | Programmable Architectures for Large-scale Implementations of Spiking Neural Networks<br>[论文链接](https://www.infona.pl/resource/bwmeta1.element.ieee-art-000004780982)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2008/SNN/Programmable%20Architectures%20for%20Large-scale%20Implementations%20of%20Spiking%20Neural%20Networks.md)|Jim Harkin,Liam McDaid                           |     IEEE                                    |
+
+## INQ专题
+### 量化
+| 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
+| ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
+|  CNN,FPGA,硬件加速 |      |A Cost-Effective CNN Accelerator Design with Configurable PU on FPGA<br>[论文链接](https://ieeexplore.ieee.org/document/8839437)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/INQ%E4%B8%93%E9%A2%98/A%20Cost-Effective%20CNN%20Accelerator%20Design%20with%20Configurable%20PU%20on%20FPGA.md)|Chi Fung Brian Fong, Jiandong Mu, and Wei Zhang                           |    IEEE计算机学会超大规模集成电路年会                                  |
+|  轻量级卷积神经网络，硬件加速，量化，细粒度调优位 |      |A Fully Quantitative Scheme With Fine-grained Tuning Method For Lightweight CNN Acceleration<br>[论文链接](https://ieeexplore.ieee.org/document/8964724)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/INQ%E4%B8%93%E9%A2%98/A%20Fully%20Quantitative%20Scheme%20With%20Fine-grained%20Tuning%20Method%20For%20Lightweight%20CNN%20Acceleration.md)|Chen Yang*, Bowen Li, Yizhou Wang                           |    2019第26届IEEE电子、电路与系统国际会议(ICECS)                                  |
+|  卷积神经网络;硬件加速器;移位操作;MNIST数据集 |      |A Method for Accelerating Convolutional Neural Networks Based on FPGA<br>[论文链接](https://ieeexplore.ieee.org/document/9151535)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/INQ%E4%B8%93%E9%A2%98/A%20Method%20for%20Accelerating%20Convolutional%20Neural%20Networks%20Based%20on%20FPGA.md)|Mengxing Zhao1, Xiang Li2, Shunyi Zhu                           |    2019第四届通信与信息系统国际会议                                  |
+|  深度学习，跟踪，cnn, fpga，物理 |      |CNNs on FPGAs for Track Reconstruction<br>[论文链接](https://dca.ue.ucsc.edu/system/files/dca/1091/1091.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/INQ%E4%B8%93%E9%A2%98/CNNs%20on%20FPGAs%20for%20Track%20Reconstruction.md)|加利福尼亚大学   |    未知  |
+|  YOLOv2,FPGA |      |基于 FPGA 的 YOLOv2 网络 研究与实现<br>[论文链接](http://cdmd.cnki.com.cn/Article/CDMD-10487-1019666313.htm)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/INQ%E4%B8%93%E9%A2%98/%E5%9F%BA%E4%BA%8E%20FPGA%20%E7%9A%84%20YOLOv2%20%E7%BD%91%E7%BB%9C%20%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)|何兆华   |    华中科技大学硕士论文  |
+|  异构加速器,FPGA |      |基于ＦＰＧＡ的卷积神经网络专用异构加速器的研究<br>[论文链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202002&filename=1020064648.nh&v=U7VqgPPhVNUVohPSEa3Wh3EggtBPkgI2fOXZXASV90PCvjsl2TBHbMWMFaACjhVB)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/INQ%E4%B8%93%E9%A2%98/%E5%9F%BA%E4%BA%8E%EF%BC%A6%EF%BC%B0%EF%BC%A7%EF%BC%A1%E7%9A%84%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%93%E7%94%A8%E5%BC%82%E6%9E%84%E5%8A%A0%E9%80%9F%E5%99%A8%E7%9A%84%E7%A0%94%E7%A9%B6.md)|赵梦醒   |    山东大学硕士论文  |
+|  卷积神经网络，FPGA，能效比，移位 |      |移位卷积神经网络的软硬件加速设计<br>[论文链接](https://cdmd.cnki.com.cn/Article/CDMD-10248-1020620166.htm)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/INQ%E4%B8%93%E9%A2%98/%E7%A7%BB%E4%BD%8D%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E8%BD%AF%E7%A1%AC%E4%BB%B6%E5%8A%A0%E9%80%9F%E8%AE%BE%E8%AE%A1.md)|柳泽辰    |    上海交通大学硕士论文  |
