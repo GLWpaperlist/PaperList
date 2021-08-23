@@ -25,6 +25,7 @@
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
 | ------------------------- | ---- | ------------------------------------------| --------------------------------| -------------------------------------------------- |
 | SNN训练，应用  |      | Spiking Neural Network Based Low-Power Radioisotope Identification using FPGA <br>[论文链接](https://arxiv.org/ftp/arxiv/papers/2010/2010.13125.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2021/SNN/Spiking%20Neural%20Network%20Based%20Low-Power%20%20Radioisotope%20Identification%20using%20FPGA.md)|爱丁堡大学，曼彻斯特大学，利物浦大学，克罗梅克集团                              |     IEEE                                    |
+| STDP,RK方法，欧拉方法 |      | Toward the Optimal Design and FPGA Implementation of Spiking Neural Networks <br>[论文链接](https://arxiv.org/ftp/arxiv/papers/2010/2010.13125.pdf)      &emsp;[简介](https://github.com/GLWpaperlist/PaperList/blob/main/2021/SNN/Spiking%20Neural%20Network%20Based%20Low-Power%20%20Radioisotope%20Identification%20using%20FPGA.md)|爱丁堡大学，曼彻斯特大学，利物浦大学，克罗梅克集团                              |     IEEE                                    |
 ## 2020年
 ### SNN
 | 标签                       | -    | 题目                                      | 作者                           | 单位                                                 |
