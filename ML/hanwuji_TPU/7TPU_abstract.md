@@ -1,4 +1,4 @@
-# 标题：《DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning》
+# 标题：DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning
 ## 基本信息：
 设计了一个适用于大规模CNN和DNN的加速器，强调了内存对加速器设计、性能和能量的影响。证明了设计一种高吞吐量的加速器是可能的，在面积为3.02mm2和485 mW中能够执行452GOP/s（关键的神经网络操作，如突触权重乘法和神经元输出加法），与128位2 GHz SIMD处理器相比，该加速器的速度提高了117.87倍，总功耗降低了21.08倍。在65 nm处布局后，获得了加速器的特性。在很小的空间内获得如此高的吞吐量，可以在广泛的系统和广泛的应用程序中使用最先进的机器学习算法。
 ## 总体结构：
@@ -11,7 +11,7 @@
 ·NFU-2的输入是RESET；
 最后，当发送最后一块输入神经元(表中的最后一条指令)时，NBout的(存储)DMA设置为写入512字节 (256个输出) ，NBout指令为STORE；下一条指令的NBout写入操作将为NOP (在第一个块设置DMA，并自动将数据存储回内存，直到DMA结束)。
 
-# 标题：《DaDianNao: A Machine-Learning Supercomputer》
+# 标题：DaDianNao: A Machine-Learning Supercomputer
 ## 总体结构：
 ①完全分布式的，没有主内存的体系结构：突触总是存储在使用它们的神经元附近，最大限度地减少了数据移动，节省了时间和精力；
 ②不对称的体系结构，其中每个节点的足迹在很大程度上偏向于存储而不是计算；
@@ -33,7 +33,7 @@
 ③局部响应归一化层，不存在节点通信。
 ·通信方案：一个节点一旦完成了自己的计算，就可以开始处理新到达的输入神经元块，并且已经发送了先前的输入神经元块。
 
-# 标题：《PuDianNao: A Polyvalent Machine Learning Accelerator》
+# 标题：PuDianNao: A Polyvalent Machine Learning Accelerator
 ## 基本信息：
 提出了一个称为普甸脑的ML加速器，它综合了七种具有代表性的ML技术，包括k-均值、k-近邻、naive bayes、支持向量机、线性回归、分类树和深度神经网络。通过对不同ML技术的计算基元和局部性的深入分析，普甸脑在3.51mm2的面积上可以执行高达1056GOP/s(例如加法和乘法)，而功耗仅为596 mW。与NVIDIA K20M GPU(28 nm制程)相比，普电脑制(65 nm制程)速度快1.20倍，能耗降低128.41倍。
 ## 总体结构：
@@ -48,7 +48,7 @@ HotBuf(8KB)、ColdBuf(16KB)和OutputBuf(8KB)。HotBuf存储重用距离较短的
 双端口SRAM: OutputBuf。
 三个缓冲器都连接到同一DMA。
 
-# 标题：《ShiDianNao: Shifting Vision Processing Closer to the Sensor》
+# 标题：ShiDianNao: Shifting Vision Processing Closer to the Sensor
 ## 基本信息：
 利用CNN算法特性，研究了一种节能的视觉识别加速器的设计，它可以直接嵌入任何CMOS或CCD传感器，并且速度足够快，能够实时处理图像。65 nm的完整设计（比以前最先进的神经网络加速器节能60倍），占地面积为4.86mm2，功耗仅为320 mW，但仍比高端GPU快约30倍。
 ## 总体结构：
@@ -71,7 +71,7 @@ PE间数据传输：
 ·加速器存储架构
 NBIN和NBOUT分别存储输入和输出神经元，并在计算完所有输出神经元并成为下一层的输入神经元时交换它们的功能。它们中的每一个都有2×Pybank，NBIN和NBOUT必须足够大以存储整个层的所有神经元。
 
-# 标题：《Cambricon: An Instruction Set Architecture for Neural Networks》
+# 标题：Cambricon: An Instruction Set Architecture for Neural Networks
 ## 基本信息：
 一种用于神经网络加速器的新型ISA，Cambricon是一种加载-存储体系结构，其指令均为64位，包含64个用于标量的32位通用寄存器(GPR)，主要用于控制和寻址。Cambricon不使用任何矢量寄存器文件，而是将数据保存在程序员/编译器可见的片上便签式存储器中，而且不需要在片上存储器中实现多个端口。Cambricon有效地支持更大且可变的数据宽度（因为便签式存储器很轻松实现比寄存器堆更宽）。
 1)提出了一种对神经网络技术具有很强描述能力的轻量级ISA算法；
@@ -86,7 +86,7 @@ Cambricon的一个原型加速器包含七个主要的指令流水线阶段：�
 它不使用任何矢量寄存器堆，而是将数据保存在片上便签式存储器中为了有效地访问便签存储器，原型加速器的矢量/矩阵功能单元集成了三个DMA，每个DMA对应于指令的一个矢量/矩阵输入/输出。便签式存储器还配备了IO DMA。
 便签式存储器设计了一种特定的结构：根据地址的低位两位将存储器分解为四个存储体，并通过一个纵横线将它们连接到四个读写端口上，以保证不会有存储体被同时访问。
 
-# 标题：《Cambricon-X: An Accelerator for Sparse Neural Networks》
+# 标题：Cambricon-X: An Accelerator for Sparse Neural Networks
 ## 基本信息：
 提出了一种新的加速器Cambricon-X，以利用神经网络模型的稀疏性和不规则性来提高效率。所提出的加速器采用基于PE的体系结构，由多个处理单元(PE)和缓冲控制器(BC)组成。BC集成了一个高效的索引模块，用于从集中的神经元缓冲区中只选择需要的神经元，然后将这些神经元传输到带宽要求较低的连接PE。在接收到这样的神经元后，PE可以用本地存储的压缩突触进行有效的计算。此外，由于突触的不规则分布，多个PE可以异步工作，以获得更高的效率。在16个PES的情况下，该加速器可以在6.38mm2和954mWat 65 nm的尺寸下实现最高544GOP/s的速度。
 ## 总体结构：
@@ -104,6 +104,6 @@ Cambricon的一个原型加速器包含七个主要的指令流水线阶段：�
 ⑧采用Fat-tree互连拓扑结构（在互连层级顶部附近提供更多数据链接，以连接BC和所有PEs，以提高它们之间数据移动的效率）。
 ⑨片外存储器和片上缓冲器(包括NBIN、NBOUT和SB)之间的数据通信通过直接存储器访问(DMA)实现。先将所需的突触分成块，而后内存访问端口将在短时间内一次仅分配给一个PE。
 
-# 标题：《DianNao Family: Energy-Efficient Hardware Accelerators for Machine Learning》
+# 标题：DianNao Family: Energy-Efficient Hardware Accelerators for Machine Learning
 ## 基本信息：
 介绍了为ML(特别是神经网络)设计的一系列硬件加速器(即点脑系列)，特别强调了内存对加速器设计、性能和能量的影响。结果表明，在多个具有代表性的神经网络层上，与GPU相比，加速比可以达到450.65倍，对于64芯片的大典脑系统(点脑族成员)，平均可以降低150.31x的能耗。
